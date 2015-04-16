@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hello_world" type="id"/>
+    <item name="contacts_list" type="id"/>
+    <item name="insert_contact" type="id"/>
+    <item name="new_name" type="id"/>
+    <item name="new_number" type="id"/>
+    <item name="confirm_insert" type="id"/>
+    <item name="hello_world_add_contact" type="id"/>
+    <item name="insert_sms" type="id"/>
+    <item name="button_upload_sms" type="id"/>
+    <item name="menu_add_sms" type="id"/>
+    <item name="menu_delete_contact" type="id"/>
+    <item name="name_in_listView" type="id"/>
+    <item name="contacts_rubrica" type="id"/>
+</resources>

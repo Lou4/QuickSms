@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/add_sms"
+        android:id="@id/menu_add_sms"/>
+    <item
+        android:title="@string/delete_contact"
+        android:id="@id/menu_delete_contact"/>
+</menu>

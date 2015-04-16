@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuickSms</string>
+
+    <string name="hello_world">Normal click to send the sms</string>
+    <string name="text_hello_world_add_contact">Insert new contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_contact">Add Contact</string>
+    <string name="title_activity_insert_sms">Insert Sms</string>
+    <string name="button_insert_contact">Insert new contact</string>
+    <string name="insert_new_name">Insert the contact\'s name</string>
+    <string name="insert_new_number">Insert the contact\'s tel number</string>
+    <string name="button_confirm_insert">Add</string>
+    <string name="edit_text_insert_sms">Insert the SMS</string>
+    <string name="upload_sms">Insert SMS</string>
+    <string name="add_sms">Add sms</string>
+    <string name="delete_contact">Delete contact</string>
+    <string name="default_value_sms">EMPTY</string>
+    <string name="key_contact_position">contact_position_in_list</string>
+    <string name="intent_filter_sms">intent_filter_sms</string>
+
+    <!-- Dialog for sending the sms -->
+    <string name="message">Do you want to send the sms ?</string>
+    <string name="positive_button">Send</string>
+    <string name="negative_button">Cancel</string>
+</resources>
